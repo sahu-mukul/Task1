@@ -1,3 +1,3 @@
 <video width="320" height="240" controls>
-  <source src="high peak.mpr" type="video/mp4">.
+  <source src="high peak.mp4" type="video/mp4">.
 </video>
